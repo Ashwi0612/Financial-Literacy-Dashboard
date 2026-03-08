@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 💰 Financial Literacy Dashboard for College Students
 
 A web app that helps college students **visualize, understand, and improve** their personal finances.
@@ -14,13 +13,13 @@ Built with **Python + Streamlit + Pandas + Matplotlib**.
 
 ## 📸 Features
 
-- 📊 **Spending Breakdown** — Pie chart showing where money goes each month
-- 📈 **Income vs Expenses** — Bar chart comparing earnings and spending across the year
-- 💹 **Savings Trend** — Line chart tracking savings month by month
-- 🏷️ **Category Trends** — Multi-line chart for Food, Transport, Education, Entertainment
-- 🏅 **Financial Health Score** — Automated A–D grade based on savings habits
-- 🎯 **Budget Tracker** — Compare actual spending vs your personal budget goal
-- 💡 **Financial Tips** — Actionable advice in the sidebar
+-  **Spending Breakdown** — Pie chart showing where money goes each month
+-  **Income vs Expenses** — Bar chart comparing earnings and spending across the year
+-  **Savings Trend** — Line chart tracking savings month by month
+-  **Category Trends** — Multi-line chart for Food, Transport, Education, Entertainment
+-  **Financial Health Score** — Automated A–D grade based on savings habits
+-  **Budget Tracker** — Compare actual spending vs your personal budget goal
+-  **Financial Tips** — Actionable advice in the sidebar
 
 ---
 
