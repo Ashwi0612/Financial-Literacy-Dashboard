@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💰 Financial Literacy Dashboard for College Students
 
 A web app that helps college students **visualize, understand, and improve** their personal finances.
@@ -103,3 +104,6 @@ This aligns with JP Morgan's mission of **financial inclusion and empowerment** 
 B.Tech CSE (Data Science) — SRM Institute of Science and Technology  
 BS Data Science — IIT Madras  
 [LinkedIn](https://linkedin.com/in/ashwitha-mohanraj) | [GitHub](https://github.com/Ashwi0612)
+=======
+# Financial-Literacy-Dashboard
+>>>>>>> 9727fca4fe18bccba9a5cebe203236b5b6a4cc8c
